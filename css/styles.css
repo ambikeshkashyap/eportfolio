@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@1,700&display=swap');
+@import url(//db.onlinewebfonts.com/c/c017c9efb81f32559dee68fa54edbde4?family=ReklameScriptW00-Medium);
+
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+
+.nav-adj a {
+    font-size: 20px;
+    font-family: 'ReklameScriptW00-Medium', serif;
+}
+
+.row-content {
+    font-family: 'Alegreya', serif;
+}
+
+.row-content-1 {
+    font-family: 'ReklameScriptW00-Medium', serif;
+    text-align: center;
+    background-color: white;
+    margin-top: 20px;
+    font-size: 25px;
+    height: 220px;
+}
+.row-content-2 {
+    font-family: 'Alegreya', serif;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    margin:0px auto;
+    font-family: 'ReklameScriptW00-Medium', serif;
+}
+
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #9575CD ;
+    color:floralwhite;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+    background-image: url(/img/bg-1.jpg);
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+
+.navbar-nav {
+    padding-right: 30px;
+}
